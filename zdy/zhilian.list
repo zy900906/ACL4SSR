@@ -1,12 +1,1 @@
-#自己域名
-DOMAIN-SUFFIX,yyjj.top
-DOMAIN-SUFFIX,fq.yyjj.us.kg
-#甲骨文
-IP-CIDR,168.138.220.166/32
-#视频网站
-DOMAIN-KEYWORD,libvio
-IP-CIDR,172.247.175.76/32
-#胡志明
-IP-CIDR,165.154.104.93/32
-#zerotier端口
-DST-PORT,9993
+
